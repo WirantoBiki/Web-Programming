@@ -2,5 +2,4 @@ Membuat resolusi untuk belajar Web Programming
 - Belajar Javascript dan menguasainya
 - Memahami tentang Framework Javascript
 - Membuat website dengan bahasa pemograman JS
-- Belajar Bahasa Pemograman PHP
 - Membuat Website Dinamis
